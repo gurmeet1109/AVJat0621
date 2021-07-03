@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AS400/.idea/AS400.iml" filepath="$PROJECT_DIR$/../AS400/.idea/AS400.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AV_JobAThon/.idea/AV_JobAThon.iml" filepath="$PROJECT_DIR$/AV_JobAThon/.idea/AV_JobAThon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AnaVidyaFE.iml" filepath="$PROJECT_DIR$/.idea/AnaVidyaFE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Medium/MarcosDominguez/CCDefaults/.idea/CCDefaults.iml" filepath="$PROJECT_DIR$/../Medium/MarcosDominguez/CCDefaults/.idea/CCDefaults.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle/Selener/CrediCard_Default_Prediction/.idea/CrediCard_Default_Prediction.iml" filepath="$PROJECT_DIR$/../Kaggle/Selener/CrediCard_Default_Prediction/.idea/CrediCard_Default_Prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AnakyticsVidya/JobAThonJune2021/.idea/JobAThonJune2021.iml" filepath="$PROJECT_DIR$/../AnakyticsVidya/JobAThonJune2021/.idea/JobAThonJune2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle/JaneStreetMarketPrediction/KritiDoneria/.idea/KritiDoneria.iml" filepath="$PROJECT_DIR$/../Kaggle/JaneStreetMarketPrediction/KritiDoneria/.idea/KritiDoneria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle/Melbourne_Housing/.idea/Melbourne_Housing.iml" filepath="$PROJECT_DIR$/../Kaggle/Melbourne_Housing/.idea/Melbourne_Housing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle/scikit-learn-london/.idea/scikit-learn-london.iml" filepath="$PROJECT_DIR$/../Kaggle/scikit-learn-london/.idea/scikit-learn-london.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../towardsDS/susanLi/.idea/susanLi.iml" filepath="$PROJECT_DIR$/../towardsDS/susanLi/.idea/susanLi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (venv)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="CrediCard_Default_Prediction" />
+    <orderEntry type="module" module-name="CCDefaults" />
+    <orderEntry type="module" module-name="AV_JobAThon" />
+    <orderEntry type="module" module-name="AV_JobAThon" />
+    <orderEntry type="module" module-name="scikit-learn-london" />
+    <orderEntry type="module" module-name="Melbourne_Housing" />
+    <orderEntry type="module" module-name="KritiDoneria" />
+    <orderEntry type="module" module-name="susanLi" />
+    <orderEntry type="module" module-name="AS400" />
+    <orderEntry type="module" module-name="JobAThonJune2021" />
+  </component>
+</module>
